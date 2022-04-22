@@ -1,0 +1,10 @@
+#data-card-layout{
+    background: white;
+    border-radius: 4px;
+    width: 350px;
+    position: absolute;
+    top: 10vh;
+    right: 10px;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+}
