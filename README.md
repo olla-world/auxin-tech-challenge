@@ -3,7 +3,7 @@
 -For running local frontend with Hot Reloading Require NodeJs.
 
 `npm install`
-`npm run dev`
+`npm run start`
 
 # Feature
 
